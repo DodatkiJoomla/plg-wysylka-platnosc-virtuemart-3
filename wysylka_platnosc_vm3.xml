@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="1.5" type="plugin" group="system" method="upgrade">
+    <name>Powiązanie wysyłki i płatności dla VM 3</name>
+    <creationDate>2015-02-01</creationDate>
+    <author>Dodatkijoomla.pl and sulzycki.com.pl</author>
+    <copyright>Copyright (c) 2015 DodatkiJoomla.pl</copyright>
+    <license>GNU/GPL v2</license>
+    <authorEmail>kontakt@dodatkijoomla.pl</authorEmail>
+    <authorUrl>http://dodatkijoomla.pl</authorUrl>
+    <version>2.0</version>
+    <description>Dodatek wiążący wysyłki z płatnościami w Virtuemart 3 dla Joomla 3.</description>
+    <languages></languages>
+	<files>
+		<filename plugin="wysylka_platnosc_vm3">wysylka_platnosc_vm3.php</filename>
+	</files>
+</extension>
